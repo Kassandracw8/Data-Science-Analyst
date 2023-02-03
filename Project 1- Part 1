@@ -1,0 +1,142 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPfF5u9FxvKo219zXmcgTgp",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Kassandracw8/Data-Science-Analyst/blob/main/Project%201-%20Part%201\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Data Science Salary Insights**\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "eaykllmf5bPj"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "KLwTjTRq5SlC"
+      },
+      "outputs": [],
+      "source": [
+        "Kassandra Howard"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n"
+      ],
+      "metadata": {
+        "id": "ZZTfIpdB6dj2"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Loading Data**"
+      ],
+      "metadata": {
+        "id": "2G88R-I06jiX"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n"
+      ],
+      "metadata": {
+        "id": "-iOA9uZz7WX1"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Data Cleaning** "
+      ],
+      "metadata": {
+        "id": "qWNBRrWc7YJ8"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n"
+      ],
+      "metadata": {
+        "id": "2Ent0Hd47jZJ"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Exploratory Visual**"
+      ],
+      "metadata": {
+        "id": "LmMgAMNe7lXO"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n"
+      ],
+      "metadata": {
+        "id": "SmMNjuxy7t7K"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Explanatory Visuals**"
+      ],
+      "metadata": {
+        "id": "BTSn7Pw47vnS"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n"
+      ],
+      "metadata": {
+        "id": "Kaxn46KX7880"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
