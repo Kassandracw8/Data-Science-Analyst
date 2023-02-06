@@ -1,0 +1,49 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "toc_visible": true,
+      "authorship_tag": "ABX9TyP8ifD6f/jaserw/3+DxNLM",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Kassandracw8/Data-Science-Analyst/blob/main/Project%201\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **Data Science Salary Insights**\n",
+        "Kassandra Howard\n",
+        "\n",
+        "## **Loading Data**\n",
+        "\n",
+        "## **Data Cleaning**\n",
+        "\n",
+        "## **Exploratory Visual**\n",
+        "\n",
+        "## **Explanatory Visuals**"
+      ],
+      "metadata": {
+        "id": "eaykllmf5bPj"
+      }
+    }
+  ]
+}
